@@ -1,0 +1,15 @@
+Name,telephones,Triage Booking,Admin New,Registrations,Ice,Bloods etc,Simple scanning,Scanning / coding and batching,Prescriptions,Reception referrals,Secretary referrals,Call ambulance
+R1,X,X,X,X,X,X,X,X,,X,X,
+R2,X,X,X,X,X,X,X,X,,X,X,X
+R3,X,X,X,X,,X,X,,,X,,X
+R4,X,X,,X,,X,X,,,,,
+R5,X,X,,X,,X,X,X,,X,,
+R6,X,X,X,X,,X,X,,,X,,X
+R7,X,X,X,X,X,X,X,X,,X,X,X
+R8,X,,,,,,,X,,,,
+R9,X,X,,X,,X,X,,,,,,X
+A1,X,X,X,X,X,X,X,X,X,,X,X
+A2,X,,,,,,,X,X,,,,
+A3,X,X,X,X,X,X,X,X,X,,X,X
+D1,X,X,X,X,X,X,X,X,,X,X,X
+D2,X,X,X,X,X,X,X,X,X,X,X,X
